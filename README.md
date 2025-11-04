@@ -78,8 +78,8 @@ The website serves as a digital gateway for outreach, wellness sessions, and com
 
 **👩 Mary Wamui**  
 _BBIT Student at Strathmore University_  
-📧 [contact@zolacares.com](mailto:contact@zolacares.com)  
-🌐 [Zola AllCare on GitHub](https://github.com/Wamui2006/Zola-AllCare)
+📧 [marywamui620@gmail.com](mailto:marywamui620@gmail.com)  
+🌐 [GitHub Profile – Wamui2006](https://github.com/Wamui2006)
 
 ---
 
@@ -91,4 +91,3 @@ All images, PDFs, and logos belong to **Zola AllCare © 2025**.
 ---
 
 ### 🌟 Made with care by Mary Wamui 💚
-
